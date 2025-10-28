@@ -8,7 +8,7 @@ donde *aprendo a escribir con formato sencillo*, y también puedo incluir palabr
 ---
 ## CODIGO 
  
-###Ejemplo de java 
+### Ejemplo de java 
 
  public class Saludo {
     public static void main(String[] args) {
@@ -29,15 +29,19 @@ donde *aprendo a escribir con formato sencillo*, y también puedo incluir palabr
 - creer el mkd
 - aplica cambios
 ---
+
 ## URL
 [Github](https://github.com)
 ---
+
 ## url a segundo markdown
 [Markdown-2](segundoarchivo.md)
 ---
+
 ## image
-[dragonite](image/dragonite.png)
+![dragonite](image/dragonite.png)
 ---
+
 ## tabla 
 | Nombre   |Apellido    |edad    |
 |----------|------------|--------|
