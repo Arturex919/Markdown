@@ -6,9 +6,9 @@ Este es mi primer documento en **Markdown**,
 donde *aprendo a escribir con formato sencillo*, y también puedo incluir palabras como `código` dentro del texto.
 
 ---
-### CODIGO 
+## CODIGO 
  
-##Ejemplo de java 
+###Ejemplo de java 
 
  public class Saludo {
     public static void main(String[] args) {
@@ -16,29 +16,29 @@ donde *aprendo a escribir con formato sencillo*, y también puedo incluir palabr
     }
 }
 ---
-##lista
+## lista
 - 1.crear repo
 - 2.clonar repo
 - 3.creer el mkd
 - 4.aplica cambios 
 ---
-##lista desordenada
+## lista desordenada
 
 - crear repo
 - clonar repo
 - creer el mkd
 - aplica cambios
 ---
-##URL
+## URL
 [Github](https://github.com)
 ---
-### url a segundo markdown
+## url a segundo markdown
 [Markdown-2](segundoarchivo.md)
 ---
-##image
+## image
 [dragonite](image/dragonite.png)
 ---
-##tabla 
+## tabla 
 | Nombre   |Apellido    |edad    |
 |----------|------------|--------|
 | Pau      | albarracin | 20     |
